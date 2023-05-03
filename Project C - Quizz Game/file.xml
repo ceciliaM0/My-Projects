@@ -1,0 +1,15 @@
+<? xml version="1.0" ?>
+<quiz>
+	<intrebari>
+		<intrebare1>Cat a durat razboiul de 100 de ani?</intrebare1>
+		<intrebare2>Diabetul este cauzat de insuficienta carui hormon?</intrebare2>
+	</intrebari>
+	<variante>
+		<a>a.116, b.118, c.100, d.216</a>
+		<b>a.aldosteron, b.glucagon, c.insulina, d.glaucom </b>
+	</variante>
+	<raspuns>
+	<i1>a</i1>
+	<i2>c</i2>
+	</raspuns>
+</quiz>
